@@ -1,2 +1,2 @@
 # thirdyearproj
-This repository contains a set of notebooks created for the third year project for my BSc in Mathematics at the University of York.
+This repository contains a set of notebooks created for the third year project for my BSc in Mathematics at the University of York. The project is titled "Statistical Inference for Differential Equations". For this project, I am trying to infere parameter values from differential equations. I will be taking a Bayesian approach to my project and intend to make use of Markov Chain Monte Carlo techniques. 
