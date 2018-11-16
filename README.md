@@ -7,9 +7,9 @@ Some of these notebooks feature animated plots to display how inference changes 
 ### Structure of Notebook:
 
 #### Grid Estimation 
-- Coin Toss Example, [a link](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/bayesian_coin_toss_bias.ipynb)
-- One Parameter Logistic Equation [a link](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/bayesian_logistic_eqn_grid.ipynb)
-- Two Parameter Normal Distribution[a link](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/grid_approx_two_param_normal.ipynb)
+- Coin Toss Example, [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/bayesian_coin_toss_bias.ipynb)
+- One Parameter Logistic Equation, [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/bayesian_logistic_eqn_grid.ipynb)
+- Two Parameter Normal Distribution, [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/grid_approx_two_param_normal.ipynb)
 - Two Parameter Logistic Equation
   
 #### MCMC
