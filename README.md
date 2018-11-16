@@ -7,9 +7,9 @@ Some of these notebooks feature animated plots to display how inference changes 
 ### Structure of Notebook:
 
 #### Grid Estimation 
--Coin Toss Example
--One Parameter Logistic Equation 
--Two Parameter Normal Distribution
--Two Parameter Logistic Equation
+- Coin Toss Example
+- One Parameter Logistic Equation 
+- Two Parameter Normal Distribution
+- Two Parameter Logistic Equation
   
 #### MCMC
