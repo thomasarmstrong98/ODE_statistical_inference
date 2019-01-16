@@ -13,4 +13,4 @@ Some of these notebooks feature animated plots to display how inference changes 
 - Two Parameter Logistic Equation, [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/logistic_two_param_grid.ipynb)
   
 #### MCMC
-- Two Parameter Logistic Equation
+- Two Parameter Logistic Equation (Unfinished) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/logistic_two_param_mcmc.ipynb)
