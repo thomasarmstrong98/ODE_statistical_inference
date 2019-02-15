@@ -14,8 +14,7 @@ Some of these notebooks feature animated plots to display how inference changes 
   
 #### MCMC
 - Two Parameter Logistic Equation (Unfinished) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/logistic_two_param_mcmc.ipynb)
-- Altered Lotka Volterra with Bi-modal Posterior [here]
-(https://github.com/thomasarmstrong98/thirdyearproj/blob/master/altered_lotka_volterra_mcmc.ipynb)
+- Altered Lotka Volterra with Bi-modal Posterior [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/altered_lotka_volterra_mcmc.ipynb)
 
 #### Extra (Some work on using ODE solvers for dynamical systems)
 - Lotka Volterra Predator Prey [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/ode_solver_exploration.ipynb)
