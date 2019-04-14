@@ -5,9 +5,9 @@ This repository contains a set of notebooks created for the third year project f
 Some of these notebooks feature animated plots to display how inference changes with each observation. Such plots cannot be displayed on GitHub and must be ran locally. To do so, FFmpeg must be installed and \FFmpeg\bin added to PATH.
 
 ##  Dissertation
-- Grid Approximation (Logistic Eqn)
-- Metropolis-Hastings (Logistic Eqn)
-- Metropolis-Hastings (Competition Model)
+- Grid Approximation (Logistic Eqn) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/two_param_logitic_grid_approx.ipynb)
+- Metropolis-Hastings (Logistic Eqn) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/two_param_mcmc_logisitc_eqn.ipynb)
+- Metropolis-Hastings (Competition Model) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/complex_lotka_volterra.ipynb)
 - Evaluation of MCMC techniques. 
 
 ## Misc
