@@ -1,10 +1,17 @@
 # thirdyearproj
-This repository contains a set of notebooks created for the third year project for my BSc in Mathematics at the University of York. The project is titled "Statistical Inference for Differential Equations". So far, the aim of this project is to infer the distribution of parameters belonging to differential equations, after observing experimental data from the system. I will be taking a Bayesian approach to my project and intend to make use of Markov Chain Monte Carlo techniques.
+This repository contains a set of notebooks created for the third year project for my BSc in Mathematics at the University of York. The project is titled "Statistical Inference for Ordinary Differential Equations". So far, the aim of this project is to infer the distribution of parameters belonging to differential equations, after observing experimental data from the system. I will be taking a Bayesian approach to my project and intend to make use of Markov Chain Monte Carlo techniques. This repository hosts several notebooks that show how the results  displayed in my dissertation were produced, these are placed under the Dissertation  title. Other notebooks, that aided my development and understand can be found in the Misc section.
 
 #### Note:
 Some of these notebooks feature animated plots to display how inference changes with each observation. Such plots cannot be displayed on GitHub and must be ran locally. To do so, FFmpeg must be installed and \FFmpeg\bin added to PATH.
 
-### Structure of Notebook:
+##  Dissertation
+- Grid Approximation (Logistic Eqn)
+- Metropolis-Hastings (Logistic Eqn)
+- Metropolis-Hastings (Competition Model)
+- Evaluation of MCMC techniques. 
+
+## Misc
+### Structure of Notebooks:
 
 #### Grid Estimation 
 - Coin Toss Example, [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/bayesian_coin_toss_bias.ipynb)
