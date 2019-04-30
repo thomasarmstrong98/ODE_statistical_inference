@@ -10,7 +10,7 @@ Some of these notebooks feature animated plots to display how inference changes 
 - Grid Approximation (Logistic Eqn) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/two_param_logitic_grid_approx.ipynb)
 - Metropolis-Hastings (Logistic Eqn) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/two_param_mcmc_logisitc_eqn.ipynb)
 - Metropolis-Hastings (Competition Model) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/complex_lotka_volterra.ipynb)
-- Evaluation of MCMC techniques. [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/dissertation_eval_graphs.ipynb) 
+- Evaluation of MCMC techniques. [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/problems_with_mh_mcmc.ipynb) 
 
 ## Misc
 ### Structure of Notebooks:
