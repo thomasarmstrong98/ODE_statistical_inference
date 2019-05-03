@@ -1,8 +1,12 @@
 # thirdyearproj
-This repository contains a set of notebooks created for the third year project for my BSc in Mathematics at the University of York. The project is titled "Statistical Inference for Ordinary Differential Equations". So far, the aim of this project is to infer the distribution of parameters belonging to differential equations, after observing experimental data from the system. I will be taking a Bayesian approach to my project and intend to make use of Markov Chain Monte Carlo techniques. This repository hosts several notebooks that show how the results  displayed in my dissertation were produced, these are placed under the Dissertation  title. Other notebooks, that aided my development and understanding can be found in the Misc section.
+This repository contains a set of notebooks created for the third year project of my BSc in Mathematics at the University of York. The project is titled "Bayesian Statistical Inference for Ordinary Differential Equations". The aim of this project is to infer the posterior distribution of parameters belonging to systems differential equations, after observing experimental data from the system. I will evidently be taking a Bayesian approach to my project and intend to make use of Markov Chain Monte Carlo techniques. This repository hosts several notebooks that show how the results  displayed in my dissertation were produced, these are placed under the Dissertation  title. Other notebooks, that aided my development and understanding can be found in the Misc section.
 
+#### Supervision:
+This project was supervised by Gustav Delius. I am extremely thankful for the many discussions that I have shared with Gustav, both for his insight into this specific project but also for the words of support regarding my future career as a mathematician.
 #### Note:
-Some of these notebooks feature animated plots to display how inference changes with each observation. Such plots cannot be displayed on GitHub and must be ran locally. To do so, FFmpeg must be installed and \FFmpeg\bin added to PATH.
+- The deadline for my dissertation was the 7th of May, as a result all the notebooks in the Dissertation will remain un-altered to preserve my results. For updated or improved notebooks, see the Updated subsection.
+
+- Some of these notebooks feature animated plots to display how inference changes with each observation. Such plots cannot be displayed on GitHub and must be ran locally. To do so, FFmpeg must be installed and \FFmpeg\bin added to PATH.
 
 ##  Dissertation
 - DRAFT of disseration [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/thomas_armstrong.pdf)
@@ -11,6 +15,9 @@ Some of these notebooks feature animated plots to display how inference changes 
 - Metropolis-Hastings (Logistic Eqn) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/two_param_mcmc_logisitc_eqn.ipynb)
 - Metropolis-Hastings (Competition Model) [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/complex_lotka_volterra.ipynb)
 - Evaluation of MCMC techniques. [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/problems_with_mh_mcmc.ipynb) 
+
+### Updated
+- empty
 
 ## Misc
 ### Structure of Notebooks:
