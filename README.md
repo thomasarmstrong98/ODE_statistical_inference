@@ -8,7 +8,7 @@ This project was supervised by Gustav Delius. I am extremely thankful for the ma
 
 - Some of these notebooks feature animated plots to display how inference changes with each observation. Such plots cannot be displayed on GitHub and must be ran locally. To do so, FFmpeg must be installed and \FFmpeg\bin added to PATH.
 
-- If you believe there to be an error in my code or wish to discuss further about the topics explored in this repository, feel free to reach out to me at thomasarmstrong98\~at~gmail\~dot~com.
+- If you believe there to be an error in my code or wish to discuss further about the topics explored in this repository, feel free to reach out to me at thomasarmstrong98 at gmail dot com.
 ##  Dissertation
 - DRAFT of disseration [here](https://github.com/thomasarmstrong98/thirdyearproj/blob/master/thomas_armstrong.pdf)
 
